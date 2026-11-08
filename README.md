@@ -49,7 +49,22 @@ TypeScript, React, Next.js, Tailwind, Node.js, Express, Prisma, PostgreSQL, Elec
 
 ## Telas
 
-Vou colocar prints aqui em breve.
+Prints do ambiente de apresentação. Os clientes, fornecedores e técnicos são fictícios.
+
+<table>
+<tr>
+<td width="50%"><img src="assets/telas/modulos.png" alt="Tela inicial, com os módulos"><br><sub>Tela inicial, com os módulos</sub></td>
+<td width="50%"><img src="assets/telas/estoque.png" alt="Consulta de estoque"><br><sub>Consulta de estoque</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/telas/compras.png" alt="Pedidos de compra"><br><sub>Pedidos de compra</sub></td>
+<td width="50%"><img src="assets/telas/propostas.png" alt="Propostas do CRM"><br><sub>Propostas do CRM</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/telas/ordens-servico.png" alt="Ordens de serviço"><br><sub>Ordens de serviço</sub></td>
+<td width="50%"><img src="assets/telas/agenda-tecnicos.png" alt="Agenda dos técnicos"><br><sub>Agenda dos técnicos</sub></td>
+</tr>
+</table>
 
 ---
 
